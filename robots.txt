@@ -1,5 +1,9 @@
 ---
+permalink: /robots.txt
 ---
+# All comers welcome!
+
 User-agent: *
-Disallow:
+Allow: *
+
 Sitemap: {{ site.url }}/sitemap.xml
